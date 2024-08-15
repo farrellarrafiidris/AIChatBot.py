@@ -1,7 +1,5 @@
 # 🌟 AIChatbot
 
-![AIChatbot Logo](https://user-images.githubusercontent.com/your_image_link_here.png)
-
 AIChatbot is a Python-based chatbot leveraging the power of LOCAL LLM (Large Language Model) from [Ollama](https://ollama.com/). This project aims to create an intelligent conversational agent that can interact seamlessly using natural language.
 
 ## 🚀 Features
